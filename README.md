@@ -122,7 +122,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📨 Contact
 
-For queries, suggestions, or feedback, please open an issue or contact [fullmoonhq](https://github.com/fullmoonhq).
+For queries, suggestions, or feedback, please open an issue or contact [mdmbypoonam](https://github.com/mdmbypoonam).
 
 ---
 
